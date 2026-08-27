@@ -22,7 +22,7 @@ SDTL brings together expertise in molecular biology, biotechnology, computationa
 |---|---|---|---|
 | Dr. Jagath Kasturiarachchi | Professor | [jagath.k@sliit.lk](mailto:jagath.k@sliit.lk) | PhD in Molecular Microbiology, University of Edinburgh, UK |
 | Dr. Muhammad Naveed | Professor | [dr.naveed@ucp.edu.pk](mailto:dr.naveed@ucp.edu.pk) | PhD in Genomics and Bioinformatics (Biotechnology), Quaid-e-Azam University, Islamabad |
-| Mr. Anu Gamage | Co-Supervisor | [anu@standardseedai.com](mailto:anu@standardseedai.com) | B.Sc. Honours in M.L.S., University of Ruhuna, Sri Lanka, M.sc in Bioinformatics. DESPU, India (Reading) |
+| Mr. Anu Gamage | Co-Supervisor | [anu@standardseedai.com](mailto:anu@standardseedai.com) | B.Sc. Honours in M.L.S., University of Ruhuna, Sri Lanka |
 | Ms. Dharani Ariyasinghe | Research Assistant | [dharaniariyasinghe312@gmail.com](mailto:dharaniariyasinghe312@gmail.com) | B.Sc. Honours in Animal Science, University of Peradeniya, Sri Lanka; B.Sc. Chemistry External, University of Colombo, Sri Lanka |
 
 
