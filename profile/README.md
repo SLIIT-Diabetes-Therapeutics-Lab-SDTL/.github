@@ -1,4 +1,5 @@
-<img width="1672" height="941" alt="287952d8-f6c7-4447-b5af-852b728b2b7a" src="https://github.com/user-attachments/assets/8325dee3-6ef7-4bb0-a7d6-c1d26eb22934" />
+<img width="1273" height="937" alt="ChatGPT Image Sep 13, 2026 at 11_54_59 AM" src="https://github.com/user-attachments/assets/6ca44349-ebc1-4786-a1c3-60d1f2a4bf05" />
+
 
 ## About SDTL
 
