@@ -1,11 +1,14 @@
 <img width="1273" height="937" alt="ChatGPT Image Sep 13, 2026 at 11_54_59 AM" src="https://github.com/user-attachments/assets/6ca44349-ebc1-4786-a1c3-60d1f2a4bf05" />
 
 
-## About SDTL
+## JK Molecular Research Group – SLIIT
 
-The SLIIT Diabetes Therapeutics Lab (SDTL) is a research-focused laboratory dedicated to advancing scientific understanding and innovation in diabetes therapeutics. The lab focuses on biomedical discovery, molecular design, genomics, bioinformatics, and AI-assisted drug discovery to support the development of improved therapeutic solutions for diabetes-related conditions.
+The **JK Molecular Research Group (JKMRG) at SLIIT** is a research-focused group dedicated to advancing scientific discovery across **plant bioactives, molecular biology, microbiology, and therapeutic research**. The group explores biological systems and bioactive compounds to improve our understanding of disease mechanisms and support the discovery of promising therapeutic solutions.
 
-SDTL brings together expertise in molecular biology, biotechnology, computational analysis, and biomedical research to explore new approaches for identifying disease targets, studying biological mechanisms, and designing potential therapeutic interventions. By integrating experimental science with data-driven technologies, the lab aims to contribute to modern diabetes research and support future discoveries in precision medicine.
+JKMRG brings together interdisciplinary approaches spanning **molecular science, biotechnology, microbiology, natural-product research, computational analysis, and AI-driven innovation**. By integrating experimental and data-driven approaches, the group investigates biologically relevant targets, characterizes bioactive molecules, explores molecular mechanisms, and supports the development of new therapeutic strategies.
+
+The group aims to promote **innovative, multidisciplinary, and translational research**, connecting natural-product and molecular sciences with modern computational and AI technologies. Through this integrated research approach, JKMRG seeks to contribute to **therapeutic discovery, biomedical innovation, and the development of scientifically grounded solutions for future healthcare challenges**.
+
 
 ---
 
