@@ -20,6 +20,11 @@ The group aims to promote **innovative, multidisciplinary, and translational res
 
 ---
 
+## Project Dashboard
+https://sdtl-dash-progress.lovable.app/
+
+---
+
 ## Team Members
 
 | Name | Title / Role | Email | Qualifications |
